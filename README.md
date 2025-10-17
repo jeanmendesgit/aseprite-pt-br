@@ -13,7 +13,7 @@ Status: Tradução completa e revisada
 
 ## Instalação
 Instalação Direta
-Baixe o arquivo **_pt_BR.aseprite-extension_** da seção Releases
+Baixe o arquivo **_pt_BR.aseprite-extension_**
 
 No Aseprite, vá em **Editar > Preferências > Extensões**
 
