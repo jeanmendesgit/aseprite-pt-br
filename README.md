@@ -8,6 +8,7 @@ Tradução completa para Português Brasileiro do Aseprite **v1.3.15.4.**
 _Esta é uma tradução comunitária da interface do Aseprite para Português Brasileiro, desenvolvida de acordo com as diretrizes oficiais de extensões de idioma do Aseprite._
 
 Versão do Aseprite compatível: **1.3.15.4**
+
 Status: Tradução completa e revisada
 
 ## Instalação
@@ -54,13 +55,15 @@ Vá em **Editar > Preferências > Geral > Idioma** e selecione **Português (Bra
 
 
 ## Contribuições
-Esta tradução é um esforço comunitário! Sua contribuição é bem-vinda:
+Esta tradução é um esforço comunitário!
 
-Reporte problemas de tradução abrindo uma Issue
+Sua contribuição é bem-vinda:
 
-Sugira melhorias via Pull Request
+● Reporte problemas de tradução abrindo uma Issue
 
-Ajude a manter a tradução atualizada com novas versões do Aseprite
+● Sugira melhorias via Pull Request
+
+● Ajude a manter a tradução atualizada com novas versões do Aseprite
 
 ## Informações Importantes
 Esta é uma tradução comunitária não-oficial. Não é desenvolvida ou endossada pela Igara Studio.
@@ -69,21 +72,24 @@ Compatibilidade: Desenvolvida para Aseprite v1.3.15.4. Pode funcionar em versõe
 
 
 ## Suporte e Issues
-Problemas com a tradução? Abra uma Issue relatando:
+Problemas com a tradução?
 
-Textos não traduzidos
+Abra uma Issue relatando:
 
-Terminologia inadequada
+● Textos não traduzidos
 
-Problemas de formatação
+● Terminologia inadequada
 
-Sugestões de melhorias
+● Problemas de formatação
+
+● Sugestões de melhorias
 
 
 ## Licença
-Este trabalho está licenciado sob a Licença Internacional Creative Commons Atribuição 4.0.
+_Este trabalho está licenciado sob a Licença Internacional Creative Commons Atribuição 4.0._
 
-Autor: **JM**
 Siga as diretrizes oficiais para extensões de idioma
 
 Mantenha seu Aseprite atualizado para garantir a melhor compatibilidade!
+
+Autor: **JM**
